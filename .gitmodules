@@ -1,0 +1,3 @@
+[submodule "ext/HEKA_Patchmaster_Importer"]
+	path = ext/HEKA_Patchmaster_Importer
+	url = https://github.com/ChristianKeine/HEKA_Patchmaster_Importer
